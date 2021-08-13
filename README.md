@@ -1,7 +1,5 @@
 # Bank-Note-Authentication
-bank-note-authentication-
-Banknote forgery is an issue faced by many banking institutions around the globe. This paper reviews our work to build a technique based on machine learning capable of detecting such forgery with high accuracy. We went through various stages for building this technique, starting from downloading the banknote specifications data to building a highly accurate model. Next, we explored various front-end deployment methods so that the model can be used on a larger scale. Finally, we created a user-friendly web-based front-end for our model to accept user input in various ways. We create front end using Flask and flasgger and deployed with the help of Streamlit.
-
+With the help of Machine Learning we can detect detect BankNote forgery which is an issue facing by many Banking institutions around the globe.I went through various stages for building this technique, starting from downloading the banknote specifications data to building a highly accurate model Next, we explored various front-end deployment methods so that the model can be used on a larger scale. User friendly web based Frontend model is created with the help of flasgger which is a Flask extension helps in Creation with Flask API and it also comes with SwaggerUI embedded. By the help docker ,I can separate my application from my Infrastructure. Finally I Deployed the model with the help of Streamlit
 # dataset info:
 Source:
 UCI Machine Learning Repository; Volker Lohweg (University of Applied Sciences, Ostwestfalen-Lippe, volker.lohweg '@' hs-owl.de)
